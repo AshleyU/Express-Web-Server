@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(207, 152, 184);
+}
+
+h3 {
+    color: gray;
+}
+
+a:link {
+    color:black;
+    text-decoration: none;
+    }
+
+  /* visited link */
+a:visited {
+    color:blueviolet;
+    }
+
+a:hover {
+    color: hotpink;
+    }
+
+a:active {
+    color:green;
+    }
